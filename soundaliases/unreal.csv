@@ -1,0 +1,15 @@
+name,platform,file,sequence,vol_min,vol_max,dist_min,dist_max,limit_count,limit_type,entity_limit_count,entity_limit_type,bus,volume_min_falloff_curve,volumefalloffcurve,reverb_send,dist_reverb_max,reverb_min_falloff_curve,reverb_falloff_curve,pitch_min,pitch_max,randomize_type,spatialized,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,chainaliasname,startdelay,speakermap,lfe percentage,center percentage,envelop_min,envelop_max,envelop percentage,occlusion_level,move_type,move_time,real_delay,distance_lpf,min_priority,max_priority,min_priority_threshold,max_priority_threshold
+#Unreal sounds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dominating,,unreal/dominating.wav,,1,1,120,1200,,,,,voice,,,,,,,0.95,1.05,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+doublekill,,unreal/doublekill.wav,,1,1,120,1200,,,,,voice,,,,,,,0.95,1.05,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+firstblood,,unreal/firstblood.wav,,1,1,120,1200,,,,,voice,,,,,,,0.95,1.05,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+godlike,,unreal/godlike.wav,,1,1,120,1200,,,,,voice,,,,,,,0.95,1.05,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+headshot,,unreal/headshot.wav,,1,1,120,1200,,,,,voice,,,,,,,0.95,1.05,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+holyshit,,unreal/holyshit.wav,,1,1,120,1200,,,,,voice,,,,,,,0.95,1.05,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+killingspree,,unreal/killingspree.wav,,1,1,120,1200,,,,,voice,,,,,,,0.95,1.05,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+monsterkill,,unreal/monsterkill.wav,,1,1,120,1200,,,,,voice,,,,,,,0.95,1.05,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+rampage,,unreal/rampage.wav,,1,1,120,1200,,,,,voice,,,,,,,0.95,1.05,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+triplekill,,unreal/triplekill.wav,,1,1,120,1200,,,,,voice,,,,,,,0.95,1.05,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+ultrakill,,unreal/ultrakill.wav,,1,1,120,1200,,,,,voice,,,,,,,0.95,1.05,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+unreal,,unreal/unreal.wav,,1,1,120,1200,,,,,voice,,,,,,,0.95,1.05,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+unstoppable,,unreal/unstoppable.wav,,1,1,120,1200,,,,,voice,,,,,,,0.95,1.05,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1

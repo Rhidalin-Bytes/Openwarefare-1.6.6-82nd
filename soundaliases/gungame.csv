@@ -1,0 +1,4 @@
+name,platform,file,sequence,vol_min,vol_max,dist_min,dist_max,limit_count,limit_type,entity_limit_count,entity_limit_type,bus,volume_min_falloff_curve,volumefalloffcurve,reverb_send,dist_reverb_max,reverb_min_falloff_curve,reverb_falloff_curve,pitch_min,pitch_max,randomize_type,spatialized,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,chainaliasname,startdelay,speakermap,lfe percentage,center percentage,envelop_min,envelop_max,envelop percentage,occlusion_level,move_type,move_time,real_delay,distance_lpf,min_priority,max_priority,min_priority_threshold,max_priority_threshold
+#Gun Game sounds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+powerup,,gungame/_powerup.wav,,1,1,120,1200,,,,,voice,,,,,,,0.95,1.05,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+powerdown,,gungame/_powerdown.wav,,1,1,120,1200,,,,,voice,,,,,,,0.95,1.05,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1

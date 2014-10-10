@@ -1,0 +1,10 @@
+name,platform,file,sequence,vol_min,vol_max,dist_min,dist_max,limit_count,limit_type,entity_limit_count,entity_limit_type,bus,volume_min_falloff_curve,volumefalloffcurve,reverb_send,dist_reverb_max,reverb_min_falloff_curve,reverb_falloff_curve,pitch_min,pitch_max,randomize_type,spatialized,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,chainaliasname,startdelay,speakermap,lfe percentage,center percentage,envelop_min,envelop_max,envelop percentage,occlusion_level,move_type,move_time,real_delay,distance_lpf,min_priority,max_priority,min_priority_threshold,max_priority_threshold
+
+#OpenWarfare Day Cycle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+dcsdawn,,daycycle/dcsdawn1.wav,1,1,1,,,,,,,voice,,,,,,,1,1,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,100,0.25,1
+dcsdawn,,daycycle/dcsdawn2.wav,2,1,1,,,,,,,voice,,,,,,,1,1,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,100,0.25,1
+dcsday,,daycycle/dcsday1.wav,1,1,1,,,,,,,voice,,,,,,,1,1,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,100,0.25,1
+dcsday,,daycycle/dcsday2.wav,2,1,1,,,,,,,voice,,,,,,,1,1,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,100,0.25,1
+dcsdusk,,daycycle/dcsdusk1.wav,1,1,1,,,,,,,voice,,,,,,,1,1,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,100,0.25,1
+dcsnight,,daycycle/dcsnight1.wav,1,1,1,,,,,,,voice,,,,,,,1,1,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,100,0.25,1
+dcsnight,,daycycle/dcsnight2.wav,2,1,1,,,,,,,voice,,,,,,,1,1,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,100,0.25,1

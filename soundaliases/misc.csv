@@ -1,0 +1,26 @@
+name,platform,file,sequence,vol_min,vol_max,dist_min,dist_max,limit_count,limit_type,entity_limit_count,entity_limit_type,bus,volume_min_falloff_curve,volumefalloffcurve,reverb_send,dist_reverb_max,reverb_min_falloff_curve,reverb_falloff_curve,pitch_min,pitch_max,randomize_type,spatialized,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,chainaliasname,startdelay,speakermap,lfe percentage,center percentage,envelop_min,envelop_max,envelop percentage,occlusion_level,move_type,move_time,real_delay,distance_lpf,min_priority,max_priority,min_priority_threshold,max_priority_threshold
+#Misc sounds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+scramble,,misc/foley_scramble01.wav,1,1,1,120,1200,,,,,voice,,,,,,,0.95,1.05,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+scramble,,misc/foley_scramble02.wav,2,1,1,120,1200,,,,,voice,,,,,,,0.95,1.05,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+scramble,,misc/foley_scramble03.wav,3,1,1,120,1200,,,,,voice,,,,,,,0.95,1.05,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+bandage,,misc/bandaging.wav,1,0.8,0.8,120,1200,,,,,voice,,,,,,,0.95,1.05,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+health_pickup_medium,,misc/pu_health01.wav,3,1,1,120,1200,,,,,voice,,,,,,,0.95,1.05,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+oldschool_pickup,,misc/mp_oldschool_pickup_01.wav,1,1,1,120,1200,,,,,voice,,,,,,,0.95,1.05,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+#OpenWarfare Battle Chatter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CD10minPos,,misc/OWB_10min_pos.wav,,1,1,,,,,,,voice,,,,,,,1,1,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,100,0.25,1
+CD05minPos,,misc/OWB_5min_pos.wav,,1,1,,,,,,,voice,,,,,,,1,1,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+CD04minPos,,misc/OWB_4min_pos.wav,,1,1,,,,,,,voice,,,,,,,1,1,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+CD03minPos,,misc/OWB_3min_pos.wav,,1,1,,,,,,,voice,,,,,,,1,1,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+CD02minPos,,misc/OWB_2min_pos.wav,,1,1,,,,,,,voice,,,,,,,1,1,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+CD02minNeg,,misc/OWB_2min_neg.wav,,1,1,,,,,,,voice,,,,,,,1,1,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+CD01minPos,,misc/OWB_1min_pos.wav,,1,1,,,,,,,voice,,,,,,,1,1,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+CD01minNeg,,misc/OWB_1min_neg.wav,,1,1,,,,,,,voice,,,,,,,1,1,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+CD30secPos,,misc/OWB_30sec_pos.wav,,1,1,,,,,,,voice,,,,,,,1,1,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+CD15secPos,,misc/OWB_15sec_pos.wav,,1,1,,,,,,,voice,,,,,,,1,1,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+CDFinalPos,,misc/OWB_countdown_pos.wav,,1,1,,,,,,,voice,,,,,,,1,1,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,80,80,0.25,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+#intro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+music_intro,,music/beat.wav,,1,1,,,,,,,voice,,,,,,,1,1,,2d,,,,,all_mp,,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+music_mainmenu,,music/menu1.wav,1,1,,,,,,,,voice,,,,,,,1,1,,2d,,,looping,,all_mp,,,,,,,,,,,,,,,,,,,,1

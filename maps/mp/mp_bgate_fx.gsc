@@ -1,0 +1,3 @@
+main() {}
+precacheFX() {}
+spawnFX() {}
